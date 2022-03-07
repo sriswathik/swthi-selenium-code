@@ -24,7 +24,7 @@ public class Singleton {
 		if(singleton_instance==null)
 			singleton_instance =new Singleton();
 		return singleton_instance;
-		
+		//this is edited line
 	}
 	
 	public static void main(String[] args) {
